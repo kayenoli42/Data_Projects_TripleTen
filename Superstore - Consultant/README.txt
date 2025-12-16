@@ -1,1 +1,3 @@
 [Link to Tableau](https://public.tableau.com/app/profile/patrice.daley/viz/Sprint4Project_17623075823770/Part3Q3?publish=yes)
+In this project, I analyzed Superstore order, profit, and return data to uncover the key drivers of business performance. I identified major profit centers and loss-makers across product, region, and shipping dimensions, recommended products and subcategories to focus on or discontinue, and evaluated advertising opportunities by identifying the best state and month combinations based on return on ad spend. I also analyzed return behavior by product and customer, and compared return rates against profitability to support data-driven decisions aimed at increasing revenue, optimizing marketing spend, and reducing costly returns.
+
