@@ -1,0 +1,2 @@
+
+In this project, I used Power BI to analyze mobile app and review data to better understand the app marketplace and user engagement. I built KPIs and visualizations to explore the number of apps, review volume over time, and the relationship between ratings and reviews. Using DAX, I created calculated columns to measure review helpfulness and developer responsiveness, then connected app and review data through relationships to compare developer performance. The analysis highlights how user feedback and developer engagement impact app ratings and overall app performance.
