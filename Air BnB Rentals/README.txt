@@ -1,1 +1,3 @@
 [link to project](https://docs.google.com/spreadsheets/d/1Cti96_0hdaNySbAN9pgc7vaUwUQl7pxqi2S1MeI5Ld4/edit?usp=sharing)
+In this project, I analyzed Airbnb listing data for Manhattan to help identify the most attractive investment opportunities in the vacation rental market. After cleaning and preparing the raw data, I used pivot tables to evaluate listing performance by neighborhood and property size, focusing on revenue generated and demand patterns. The analysis highlights which combinations of location and number of bedrooms produce the strongest returns, providing clear, data-driven recommendations to support real estate investment decisions.
+
